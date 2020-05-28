@@ -1,12 +1,15 @@
-h1{
+
+html {
+    background-image: url(freedom.jpg);
+}
+h1 {
     color: white;
     font: normal 25px arial;
     text-align: center;
+    font-weight: bold;
 }
-
-div
-{
-    background: rgb(241, 247, 158);
+div {
+    background: rgb(241, 247, 166);
     color:black;
     border-radius: 10px;
     padding: 15px;
@@ -14,7 +17,7 @@ div
     border: black;
     text-align: justify;
 }
-html 
-{
-    background-image: url(freedom.jpg);
+div p {
+    text-align: center;
 }
+
